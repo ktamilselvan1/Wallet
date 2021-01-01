@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wallet</string>
+
+    <string name="show_all">Show All</string>
+    <string name="show_fiat">Only Fiat</string>
+    <string name="show_crypto_coin">Only Crypto Coin</string>
+    <string name="show_metal">Only Metal</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ebookfrenzy.menuexample.MenuExampleActivity">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_all"
+            android:title="@string/show_all" />
+        <item
+            android:id="@+id/menu_fiat"
+            android:title="@string/show_fiat" />
+        <item
+            android:id="@+id/menu_crypto_coin"
+            android:title="@string/show_crypto_coin" />
+        <item
+            android:id="@+id/menu_metal"
+            android:title="@string/show_metal" />
+    </group>
+</menu>
